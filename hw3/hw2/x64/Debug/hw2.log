@@ -1,0 +1,19 @@
+﻿  Light.cpp
+c:\users\weizhe yuan\documents\hw2\hw2\light.cpp(1): fatal error C1083: 无法打开包括文件: “Light.h”: No such file or directory
+  Uniform.cpp
+c:\users\weizhe yuan\documents\hw2\src_wraplib\uniform.cpp(1): fatal error C1083: 无法打开包括文件: “Uniform.h”: No such file or directory
+  Timer.cpp
+c:\users\weizhe yuan\documents\hw2\src_wraplib\timer.cpp(1): fatal error C1083: 无法打开包括文件: “Timer.h”: No such file or directory
+  Program.cpp
+c:\users\weizhe yuan\documents\hw2\src_wraplib\program.cpp(1): fatal error C1083: 无法打开包括文件: “Program.h”: No such file or directory
+  LuaTable.cpp
+c:\users\weizhe yuan\documents\hw2\src_wraplib\luatable.cpp(1): fatal error C1083: 无法打开包括文件: “LuaConfig.h”: No such file or directory
+  LuaConfig.cpp
+c:\users\weizhe yuan\documents\hw2\src_wraplib\luaconfig.cpp(1): fatal error C1083: 无法打开包括文件: “LuaConfig.h”: No such file or directory
+  glsupport.cpp
+c:\users\weizhe yuan\documents\hw2\src_wraplib\glsupport.cpp(7): fatal error C1083: 无法打开包括文件: “glsupport.h”: No such file or directory
+  Attribute.cpp
+c:\users\weizhe yuan\documents\hw2\src_wraplib\attribute.cpp(1): fatal error C1083: 无法打开包括文件: “Attribute.h”: No such file or directory
+  lighting.cpp
+c:\users\weizhe yuan\documents\hw2\homework\lighting.cpp(1): fatal error C1083: 无法打开包括文件: “GL/glew.h”: No such file or directory
+  正在生成代码...
